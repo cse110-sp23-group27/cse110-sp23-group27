@@ -51,3 +51,8 @@
     - Way to contact:
        - Info: [Jason Bui](https://jasonb1910.github.io/CSE-110/)
        - Email: *j8bui@ucsd.edu*
+10.  **Jason Bui (*Developer*)**
+    - About me: *""*
+    - Way to contact:
+       - Info: [Kyle Smith]()
+       - Email: *kws001@ucsd.edu*
