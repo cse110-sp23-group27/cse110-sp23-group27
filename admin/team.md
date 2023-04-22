@@ -62,7 +62,7 @@
        - Info: [Jason Bui](https://jasonb1910.github.io/CSE-110/)
        - Email: *j8bui@ucsd.edu*
 10.  **Kyle Smith (*Developer*)**
-    - About me: *""*
+    - About me: *"Hi, I'm Kyle. I'm one of the Developers of this team"*
     - Way to contact:
-       - Info: [Kyle Smith]()
+       - Info: [Kyle Smith](https://github.com/mrkylesmith)
        - Email: *kws001@ucsd.edu*
