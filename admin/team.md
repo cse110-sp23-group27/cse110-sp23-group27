@@ -1,6 +1,6 @@
 # ***The 110-Wanton-Wontons Team's Page***
 
-![image](team-logo.png)
+![image](admin/branding/team-logo-27.png)
 
 ## **What we wont-on our team:**
 - Love wontons
