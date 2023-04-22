@@ -2,6 +2,16 @@
 
 ![image](team-logo.png)
 
+## **What we wont-on our team:**
+- Love wontons
+- Know what a wonton is
+- Be able to empathize with others
+- Be respectful and understanding of others
+- Be genuine in your attempts to work with others
+- Be communicative and accepting of all ideas
+- Be supportive and considerate when helping others
+- **LOVE WONTONS!**
+
 ## **Meet The Team:**
 
 1. **Victor Kim (*Leader*)**
