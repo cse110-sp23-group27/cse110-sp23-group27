@@ -1,4 +1,4 @@
-# Tarot Card js implementation
+# Tarot Card js implementation (wip)
 
 The card class will hold inside of it the link to the element which represents the class. 
 
