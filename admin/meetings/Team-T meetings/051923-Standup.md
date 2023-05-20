@@ -12,7 +12,7 @@ Jason is taking notes today
 ## Agenda
 - General tasks to add
 - ADRs
-
+- General design of text and website
 ## Topic
 
 ### General tasks for Tarot Card:
@@ -38,7 +38,11 @@ Jason is taking notes today
     - Unit tests and E2E (End to end) testing (after basic framework and some cards added)
         - Check for 22 card responses, and check if responses match with a text file kept in directory
     - Unit testing design sheet
-  
+### Design of text and website:
+- Maybe add navigation bar (burger bar)
+- Possible tarot card design: [here](https://www.thetarotlady.com/tarot-card-meanings/)
+- Generating card images using AI? Considering [image generation](https://app.leonardo.ai/) 
+
 # Next Meeting Goal
 - Set up the pipeline and ADRs
 - Working on the sprint
