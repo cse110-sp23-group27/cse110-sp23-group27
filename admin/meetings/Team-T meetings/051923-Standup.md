@@ -41,7 +41,9 @@ Jason is taking notes today
 ### Design of text and website:
 - Maybe add navigation bar (burger bar)
 - Possible tarot card design: [here](https://www.thetarotlady.com/tarot-card-meanings/)
-- Generating card images using AI? Considering [image generation](https://app.leonardo.ai/) 
+- Possible Settings: language, more bones for bone tossing
+- Generating card images using AI? 
+    - Considering [image generation](https://app.leonardo.ai/) 
 
 # Next Meeting Goal
 - Set up the pipeline and ADRs
