@@ -28,3 +28,5 @@
 * Deployment of website to GitHub Pages (once functional)
 * Adding E2E Jest testing (to be added when application is functional)
 * Automatically linking Pull Request to Github Issue
+* Integrate `Code Climate` as code quality tool
+
