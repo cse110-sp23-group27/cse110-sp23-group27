@@ -22,3 +22,4 @@ Elvis Joa is taking notes today
 - Tarot Card Implementation
   - Test with random text until JSON objects are made
 - Merged the current progress of the home page
+- Kathy, Kevin, Jason, and Daniel will work on the home page
