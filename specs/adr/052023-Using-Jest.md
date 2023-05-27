@@ -1,4 +1,3 @@
---- File name should use MMDDYY-Decision-Name.md format
 # Using Jest to test our JavaScript
 
 ## Context and Problem Statement
