@@ -36,3 +36,11 @@ we can then make a separate manager that holds an array of these objects, and th
 I think this is a flexible system. If you are curious to find out more about the specifics of animation such as animation curves (which I think we will make a stretch goal), here are some cool youtube videos:  
 https://www.youtube.com/watch?v=Nc9x0LfvJhI (animation curves)  
 https://www.youtube.com/watch?v=_KRb_qV9P4g (animation interpolation, the thing of getting the inbetween position given time and two points)
+
+### Update May 25th
+
+## Some details we missed
+* Accessibility of the class
+* Possible modification/deletion of the animation after it began running
+* Animation curves
+* Animation callbacks
