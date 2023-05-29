@@ -40,7 +40,20 @@ https://www.youtube.com/watch?v=_KRb_qV9P4g (animation interpolation, the thing 
 ### Update May 25th
 
 ## Some details we missed
-* Accessibility of the class
-* Possible modification/deletion of the animation after it began running
+* Accessibility of the class and possible modification/deletion of the animation after it began running
 * Animation curves
 * Animation callbacks
+
+## Accessibility of the class
+The class needs to idealy be callable from anywhere. One way to do it is to just make a new Animator everytime, but this presents scoping issues. 
+
+For example what if we want to later edit or somehow delete some animation once it started running.
+
+ If we make a new object every time we lose the pointer to the list of the animation objects. 
+
+It would be better if there was only one object which manages all of them.
+
+Aditionally if we do that then we need to constantly make and clear intervals which could be its own problem, and instead of running multiple intervals we could just run all the animation on the same frame which would reduce jitter (as in they would jitter together).
+
+## Animation curves
+If we animate everything linearly, it kind of 
