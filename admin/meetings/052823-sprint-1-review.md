@@ -17,7 +17,7 @@ Victor is taking notes today
 - Sprint review
 - Show off what everyone has been working on!
 
-## Topic
+## Sprint Reviews
 
 Daniel:  
 **What did you make this past sprint?**  
@@ -100,5 +100,21 @@ Testing it was very fun, and making it a singleton felt like a nice solution to 
 Still need to integrate with the rest of the Tarot Card class  
 
 Kathy:  
+**What did you make this past sprint?**
+This past sprint I helped add the fog css styling to the tarot card animations as well as getting started on the home page design for the fortune telling app as a whole.
+**What did you learn from it?**
+I learned that the internet is a great resource to find references for adding certain features. Additionally, getting used to css and javascript syntax is difficult but it’s all part of the learning process!
+**What was your favorite part of it?**
+My favorite part was seeing the web app as a whole come into fruition - it’s nice to see that the difficult planning and organizing of meetings is resulting in a product that we can actually see!
+**What blockers/issues do you still have?**
+Still getting familiar with the github actions and working in a github repo with so many other contributors. Also just getting used to styling in general.
 
-Kyle Ng:  
+Kyle Ng:
+**What did you make this past sprint?**
+I made the json file for the tarot cards and worked on accessing the json file to use the data.
+**What did you learn from it?**
+I learned more about json and how to store and access data. I also learned more about JSObjects.
+**What was your favorite part of it?**
+My favorite part was just learning new things and working together as a group to build a whole project.
+**What blockers/issues do you still have?**
+No major issues so far. One small issue is just trying to keep up with what everyone else is doing, so that when I want to help work on something else I am able to.
