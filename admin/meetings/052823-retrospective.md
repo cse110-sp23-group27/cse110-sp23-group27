@@ -10,6 +10,8 @@ Victor is taking notes today
 - Kyle Ng
 - Daniel
 - Kevin
+- Elvis
+- Jason
 
 ## Agenda
 - Review logistics
@@ -30,5 +32,5 @@ Victor is taking notes today
 - Not as many pull requests
 
 ### Next sprint
-- Get Tarot cards done by Thrusday of week 10
+- Get Tarot cards done by Thursday of week 10
 - We are still meeting on Week 10
