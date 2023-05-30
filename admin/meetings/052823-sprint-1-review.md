@@ -10,6 +10,8 @@ Victor is taking notes today
 - Kyle Ng
 - Daniel
 - Kevin
+- Elvis
+- Jason
 
 ## Agenda
 - Sprint review
