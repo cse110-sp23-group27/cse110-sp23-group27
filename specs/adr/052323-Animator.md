@@ -56,4 +56,13 @@ It would be better if there was only one object which manages all of them.
 Aditionally if we do that then we need to constantly make and clear intervals which could be its own problem, and instead of running multiple intervals we could just run all the animation on the same frame which would reduce jitter (as in they would jitter together).
 
 ## Animation curves
-If we animate everything linearly, it kind of 
+If we animate everything linearly it will look strange. This can be retrified by using Animation curves. How fast we are moving from point A to point B in a non linear fashion depends on the equaltion we use. After talking to some of the team members it was decided to just use "ease in out" curve since it is the most general purpose one.
+
+## Animation Callbacks  
+The animations often need to be played in sequence one after another, and so there were two ways of achieving this that we discussed.
+1. Promises
+2. Callbacks
+
+While both can result the same thing, promises will result in a cleaner implementation, but might be overcomplicated in when to use async calls especially since we only ever need two animations at most sequenced.
+
+Thus we decided to use callbacks since they might just be more intuitive despite slightly more confusing code in instances of longer animations.
