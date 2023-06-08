@@ -28,4 +28,4 @@ It also had support with `ESLint`, as `ESLint` would throw errors if JSDoc comme
 
 ## More Information
 
-[Jest](https://jestjs.io/)
+[JSDocs](https://jsdoc.app/)
