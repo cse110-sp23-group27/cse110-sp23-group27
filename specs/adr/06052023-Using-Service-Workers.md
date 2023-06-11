@@ -9,7 +9,6 @@ How can we ensure that users are able to access and use our web application even
 
 * We want the user to be able to use our web application without internet connection.
 * After the first time loading the page, the necessary elements and resources will be loaded and saved for future use
-* … <!-- numbers of drivers can vary -->
 
 ## Considered Options
 
@@ -32,4 +31,4 @@ Cons:
 * [Service Workers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers)
 * [Caching](https://developer.chrome.com/docs/workbox/caching-strategies-overview/)
 
-TBD if decision modified/changed
+Updated decision: https://github.com/cse110-sp23-group27/cse110-sp23-group27/blob/main/specs/adr/061123-Not-Using-Service-Workers.md
