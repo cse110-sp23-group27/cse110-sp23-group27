@@ -10,6 +10,7 @@ Kyle is taking notes today
 * Jason Bui
 * Kevin Wong
 * Jason Bui
+* Trisha Tong
 
 # What Went Wrong
 * A little confusion with how certain features are being implement or what feature we wanted
