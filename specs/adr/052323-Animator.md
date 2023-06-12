@@ -66,3 +66,8 @@ The animations often need to be played in sequence one after another, and so the
 While both can result the same thing, promises will result in a cleaner implementation, but might be overcomplicated in when to use async calls especially since we only ever need two animations at most sequenced.
 
 Thus we decided to use callbacks since they might just be more intuitive despite slightly more confusing code in instances of longer animations.
+
+Edit 06/11/23:
+While it made sense at first since if all 3 originally planned projects were to be realized there would be a lot of animations and everyone would end up working on it. With that set up it made sense to just make something that everyone could figure out how to use instantly.
+
+That being said now we know that we are only gonna make the Tarot Cards and thus Animator shifted from being used a lot for small simple animations to being used by a smaller group of people for more complex animations. With the new set up it only made sense to just make the animating more simple when making complicated animations and thus Promises were implemented in the end. Now you can just await any action and make animating in sequence much simpler.
