@@ -4,3 +4,5 @@ This project is focused on learning the basics of Software Engineering as taught
 [***Team Page***](admin/team.md)
 
 Sprint retrospectives are stored in the admin/meetings directory
+
+phase2.mp4, phase2.md, and phase2.png all detail the final stages of our pipeline in brief. Please look at onboarding.md and our private video on our other repo, Fortune-Telling-Group-27 for more detailed infrormation about our pipeline and onboarding process.
