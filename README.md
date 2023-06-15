@@ -10,3 +10,5 @@ phase2.mp4, phase2.md, and phase2.png all detail the final stages of our pipelin
 Check out e2e-testing-demo.mp4 in our admin/cipipeline directory for an explanation of our end-to-end testing.
 
 Here is the link to our project [repo](https://github.com/cse110-sp23-group27/Fortune-Telling-Group-27)
+
+Private and Public Videos are located in admin/videos/...
